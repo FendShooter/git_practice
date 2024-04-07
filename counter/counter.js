@@ -7,10 +7,3 @@ function counter() {
 }
 
 counter();
-function Decrement() {
-  reset -= reset;
-  console.log(reset);
-  return reset;
-}
-
-Decrement();
